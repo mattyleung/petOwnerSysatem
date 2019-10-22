@@ -1,0 +1,17 @@
+query name Tom White
+
+update name Tom White; phone a3000000; address 630 Forest Rd, Penshurst NSW; birthday 14/13/1987; pet dog
+
+update name Tom White; phone 23000000; address 630 Forest Rd, Penshurst NSW; postcode 2222; birthday 14/12/1987; pet dog
+
+update name Tom White; phone 23000000; pet dog bird
+
+query name Tom White
+
+update name Jinma Lee; phone 01220066; pet dog bird cat pig lizard
+
+delete Tom Swift; 00111233
+
+query 2222 age
+
+query pet
